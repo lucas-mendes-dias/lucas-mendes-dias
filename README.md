@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá! Eu sou o Lucas
 
-<!--
-**lucas-mendes-dias/lucas-mendes-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Atualmente estou construindo minha transição para a área de tecnologia, com foco em desenvolvimento de software, dados e inteligência artificial aplicada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias
+
+- Python
+- JavaScript / TypeScript
+- React
+- Node.js
+- SQL
+- PostgreSQL
+
+## Projetos em destaque
+
+📊 App Financeiro
+Sistema de gestão financeira com dashboard, previsões e assistente financeira.
+
+🚗 API Locadora
+API REST para gerenciamento de uma locadora de veículos.
+
+💼 Descomplica Vagas
+Aplicação desenvolvida para auxiliar candidatos na organização da busca por oportunidades.
+
+Atualmente
+
+📚 Finalizando minha graduação em ADS.
+
+🚀 Construindo novos projetos e documentando minha evolução por aqui.
