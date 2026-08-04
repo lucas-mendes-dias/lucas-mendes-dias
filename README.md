@@ -15,17 +15,17 @@ Atualmente estou construindo minha transição para a área de tecnologia, com f
 
 ## Projetos em destaque
 
-📊 App Financeiro
+## App Financeiro
 Sistema de gestão financeira com dashboard, previsões e assistente financeira.
 
-🚗 API Locadora
+## API Locadora
 API REST para gerenciamento de uma locadora de veículos.
 
-💼 Descomplica Vagas
+## Descomplica Vagas
 Aplicação desenvolvida para auxiliar candidatos na organização da busca por oportunidades.
 
 Atualmente
 
-📚 Finalizando minha graduação em ADS.
+Finalizando minha graduação em ADS.
 
-🚀 Construindo novos projetos e documentando minha evolução por aqui.
+Construindo novos projetos e documentando minha evolução por aqui.
