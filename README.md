@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 Atualmente estou construindo minha transição para a área de tecnologia, com foco em desenvolvimento de software, dados e inteligência artificial aplicada.
 
-Tecnologias
+## Tecnologias
 
 - Python
 - JavaScript / TypeScript
